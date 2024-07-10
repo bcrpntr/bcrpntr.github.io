@@ -1,8 +1,8 @@
-# ---
+---
 title: The start of me actually writing stuff down.
 date: 2024-07-09
 categories: [Blogging, Personal]
-tags: [personal]     # TAG names should always be lowercase
+tags: [personal]
 ---
 **Date:** 2024-07-09
 # The start of me actually writing stuff down.
