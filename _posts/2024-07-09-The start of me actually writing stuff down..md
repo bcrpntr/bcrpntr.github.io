@@ -11,7 +11,7 @@ I'm starting to use this space for daily reflections (as time allows). I'm tired
 
 ### Songs of Survival
 
-I'm introducing a tag here right off the bat: Songs of Survival. I aim to centralize my blog into a single location.
+I'm introducing a tag here right off the bat: Songs of Survival. I aim to integrate my existing blogging journey here.
 
 ## Let's Begin!
 
