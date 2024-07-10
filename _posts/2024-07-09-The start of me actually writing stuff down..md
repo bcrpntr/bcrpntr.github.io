@@ -2,7 +2,7 @@
 title: The start of me actually writing stuff down.
 date: 2024-07-09
 tags: personal
-categories: Personal, Introduction
+categories: Personal Introduction
 author: Brent Carpenter
 ---
 **Date:** 2024-07-09
