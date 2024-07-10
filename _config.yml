@@ -16,10 +16,10 @@ timezone:
 
 title: Brent Carpenter # the main title
 
-tagline: IT Aficionado # it will display as the sub-title
+tagline: Dad and IT Fanatic # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Cybersecurity Engineer, Dad, Tech Explorer
+  Dad and IT Fanatic
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/favicons/android-chrome-512x512.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
