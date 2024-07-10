@@ -34,9 +34,7 @@ Thank you for stopping by. I invite you to join me on this journey. Whether you'
 
 Here’s to the journey. Here’s to growth. Here’s to survival.
 
----
-
-- B
+\- B
 
 
 
