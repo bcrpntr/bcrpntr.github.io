@@ -1,0 +1,78 @@
+media:
+  input: assets/media
+  output: /assets/media
+  extensions: [jpg, jpeg, png, gif, svg, bmp, tif, tiff, pdf, doc, docx, ppt, pptx, xls, xlsx, txt, rtf, mp4, avi, mov, wmv, flv, mp3, wav, aac, ogg, flac, zip, rar, 7z, tar, gz, tgz]
+
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: _posts
+    icon: feather
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: date
+        label: Date
+        type: date
+        required: true
+      - name: author
+        label: Author
+        type: string
+        required: true
+      - name: body
+        label: Body
+        type: rich-text
+        required: true
+    filename: '{year}-{month}-{day}-{title}.md'
+    view:
+      fields: [title, date, author]
+      primary: title
+      sort: [date, title]
+      default:
+        search: ''
+        sort: date
+        order: desc
+
+  - name: authors
+    label: Authors
+    type: file
+    path: _data/authors.yml
+    icon: user
+    fields:
+      - name: name
+        label: Name
+        type: string
+        required: true
+      - name: bio
+        label: Bio
+        type: text
+      - name: avatar
+        label: Avatar
+        type: image
+
+  - name: tabs
+    label: Tabs
+    type: collection
+    path: _tabs
+    icon: folder
+    fields:
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: content
+        label: Content
+        type: rich-text
+        required: true
+    filename: '{title}.md'
+    view:
+      fields: [title]
+      primary: title
+      sort: [title]
+      default:
+        search: ''
+        sort: title
+        order: asc
