@@ -1,6 +1,6 @@
 media:
   input: assets/media
-  output: /assets/media
+  output: /assets
   extensions: [jpg, jpeg, png, gif, svg, bmp, tif, tiff, pdf, doc, docx, ppt, pptx, xls, xlsx, txt, rtf, mp4, avi, mov, wmv, flv, mp3, wav, aac, ogg, flac, zip, rar, 7z, tar, gz, tgz]
 
 content:
