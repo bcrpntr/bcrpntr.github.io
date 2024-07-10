@@ -18,10 +18,18 @@ content:
         label: Date
         type: date
         required: true
+      - name: tags
+        label: Tags
+        type: string
+        required: true
+      - name: categories
+        label: Categories
+        type: string
+        required: true
       - name: author
         label: Author
         type: string
-        required: true
+        required: false
       - name: body
         label: Body
         type: rich-text
