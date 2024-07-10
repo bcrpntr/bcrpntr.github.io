@@ -5,36 +5,38 @@ tags: personal
 categories: Personal Introduction
 author: Brent Carpenter
 ---
-Gross.
+### Reflection Space
 
-I am going to start using this as my reflection space each day (as time allows, I'm tired of overextending myself for no reason).
+I'm starting to use this space for daily reflections (as time allows). I'm tired of overextending myself without reason.
 
-Songs of Survival will become a tag here, as I would like to centralize my blog to a central location.
+### Songs of Survival
 
-I have a lot of growth to do, and this will be my space of positivity, as well as learning, so that anyone can view my journeyy if they would like, it's more for me to reflect on as the days go by so don't expect anything phenomenal out of this, unless you enjoy random and unnecessary technical documentation and tangents about clouds.
+I'm introducing a tag here right off the bat: Songs of Survival. I aim to centralize my blog into a single location.
 
-Let the journey begin, here's to me.
+## Let's Begin!
 
-* * *
+This space will document my growth, serve as a positive outlet, and be a place for learning. While it's mainly for my personal reflection, anyone interested in my journey is welcome to follow along. Expect random technical documentation and tangents about clouds.
 
-## Highlights of the Day
-
-Today, I went for a hike through Munn Woods twice. It was calming and relaxing, as well as a bit revelational, as I have begun listening to book summaries on Headway as I make my journey.
-
-It was a normal work day today, I learned and worked on Logic Apps for Microsoft Sentinel Playbooks, though unfortunately I created everything in the wrong resource group.
-
-I guess there's an idea for two technical posts for myself right there, one for the creation of Playbooks, and one for the migration of Playbooks to a new resource group, positives already!
-
-I skipped the gym today, like I have for the last two months, I'm not sure why but my anxiety is back about people watching me and making fun of me there. It's Planet Fitness so that's definitely not an actual concern, just one in my head, but I've got to figure out how to get over it nonetheless.
+**Here's to the journey. Here's to me.**
 
 * * *
 
-## Reflection
+### Highlights of the Day
 
-One thing I learned or realized today was to double check that I actually know what I am doing when creating new things... I was unaware that resource groups need to match for Sentinel Playbooks to run, but I guess I should read the docs better before starting new endeavors.
+**Hiking in Munn Woods:** Today, I hiked through Munn Woods twice. It was calming and relaxing, offering a bit of revelation as I listened to book summaries on Headway.
+
+**Work and Learning:** It was a normal workday. I focused on Logic Apps for Microsoft Sentinel Playbooks but accidentally created everything in the wrong resource group. This mishap gave me ideas for two technical posts: one on creating Playbooks and another on migrating them to a new resource group.
+
+**Skipping the Gym:** I skipped the gym again today, continuing a two-month streak. My anxiety about people watching and judging me is persistent, even though it’s unfounded at Planet Fitness. I need to find a way to overcome this fear.
+
+### Reflection
+
+**Lesson Learned:** Double-checking my work is crucial. I realized I need to read documentation more thoroughly before starting new tasks. Today’s mishap taught me the importance of ensuring resource groups match for Sentinel Playbooks to function correctly.
+
+### Gratitude
+
+**Today, I'm grateful for my children, Quinn and Kamden. They are my world and make each day better.**
 
 * * *
 
-## Gratitude
-
-Today, I am grateful for my babies, my world would be a lot rougher if I didn't have Quinn and Kamden beside me each day.
+Let the mayhem commence!
