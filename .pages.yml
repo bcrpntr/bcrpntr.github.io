@@ -60,27 +60,3 @@ content:
       - name: avatar
         label: Avatar
         type: image
-
-  - name: tabs
-    label: Tabs
-    type: collection
-    path: _tabs
-    icon: folder
-    fields:
-      - name: title
-        label: Title
-        type: string
-        required: true
-      - name: content
-        label: Content
-        type: rich-text
-        required: true
-    filename: '{title}.md'
-    view:
-      fields: [title]
-      primary: title
-      sort: [title]
-      default:
-        search: ''
-        sort: title
-        order: asc
