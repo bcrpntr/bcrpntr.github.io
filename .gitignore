@@ -24,3 +24,19 @@ package-lock.json
 # Misc
 _sass/dist
 assets/js/dist
+
+# NotePlan temporary files
+*.nbak
+*.plist
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.swp
+*~
