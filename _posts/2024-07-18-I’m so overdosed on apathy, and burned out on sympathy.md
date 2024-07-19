@@ -1,5 +1,5 @@
 ---
-title: I’m so overdosed on apathy, and burnt out on sympathy
+title: I’m so overdosed on apathy, and burnt out on sympathy.
 date: 2024-07-18
 tags: SOS
 categories: Blogging SongsOfSurvival
