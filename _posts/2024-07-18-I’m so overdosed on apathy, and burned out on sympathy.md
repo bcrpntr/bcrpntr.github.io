@@ -2,7 +2,7 @@
 title: I’m so overdosed on apathy, and burned out on sympathy
 date: 2024-07-18
 tags: SOS
-categories: Blogging “Songs of Survival”
+categories: Blogging SongsOfSurvival
 author: Brent Carpenter
 ---
 Here I sit, hiding in my bathtub, while I work on my therapy homework, writing about my experiences and traumas in the Army for my appointment tomorrow. I feel safe from the world here, but in reality there is nothing I need to fear anymore, I am not in danger. I figure while I do this, why not write about a song that has impacted me a lot since my departure from that asinine world?
@@ -13,6 +13,8 @@ I now understand that I run rather than confront my demons, and that I put them 
 
 I need to stop being self destructive, but that means I need to figure out how to beat this compartmentalization garbage, and learn to love myself (ew). I never understood the compartmentalization before, but now that my mind’s been sufficiently blown up, I understand that I literally packaged myself away, safe from the horrors that I expected from the world, away from everyone who cared about me so that I didn’t impact their lives. Life on autopilot is no life at all though.
 
-Today’s song kind of hits this all right in the nose, it’s a song that I relate to so heavily that I have “King of Catastrophes” tattooed across my forearms. I share this not for sympathy, but to break out of my apathy. I may have lost my faith in another day, but I can find it again, and I must continue, for myself before anyone else, otherwise I will keep finding myself here again and again, like I have so many times before. The self deprecation isn’t okay, it’s time to do better.
+Today’s song kind of hits this all right in the nose, it’s a song that I relate to so heavily that I have “King of Catastrophes” tattooed across my forearms. While not necessarily a song that helps with surviving, it’s a song that let me know others in the world relate more than I can imagine.
+
+I share this not for sympathy, but to break out of my apathy. I may have lost my faith in another day, but I can find it again, and I must continue, for myself before anyone else, otherwise I will keep finding myself here again and again, like I have so many times before. The self deprecation isn’t okay, it’s time to do better.
 
 Enjoy?
