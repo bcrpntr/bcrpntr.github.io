@@ -9,4 +9,4 @@ The therapist may have given up on me, but that doesn’t mean I have to. I’m 
 
 I may be weak, a failure, a fuck up, but I haven’t given into it this far.
 
-Life’s a game, I here to win.
+Life’s a game, I'm here to win.
